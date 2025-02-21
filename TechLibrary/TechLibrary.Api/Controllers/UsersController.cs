@@ -1,11 +1,16 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
-namespace TechLibrary.Api.Controllers
+namespace TechLibrary.Api.Controllers;
+
+
+[Route("[controller]")]
+[ApiController]
+ public class UsersController : ControllerBase
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class UsersController : ControllerBase
+    [HttpPost]
+    public IActionResult Create()
     {
+        return Created();
     }
 }
+

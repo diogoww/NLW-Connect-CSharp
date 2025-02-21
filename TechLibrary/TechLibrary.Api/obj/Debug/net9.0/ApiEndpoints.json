@@ -1,23 +1,22 @@
 [
   {
-    "ContainingType": "TechLibrary.Api.Controllers.WeatherForecastController",
+    "ContainingType": "TechLibrary.Api.Controllers.UsersController",
+    "Method": "Create",
+    "RelativePath": "Users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TechLibrary.Api.Controllers.UsersController",
     "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "Users",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[TechLibrary.Api.WeatherForecast, TechLibrary.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
   }
 ]
