@@ -38,3 +38,4 @@ C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibra
 C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Communication.dll
 C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Communication.pdb
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Api\bin\Debug\net9.0\FluentValidation.dll
