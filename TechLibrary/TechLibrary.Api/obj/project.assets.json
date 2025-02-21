@@ -133,6 +133,16 @@
         "runtime": {
           "bin/placeholder/TechLibrary.Communication.dll": {}
         }
+      },
+      "TechLibrary.Exception/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/TechLibrary.Exception.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TechLibrary.Exception.dll": {}
+        }
       }
     }
   },
@@ -514,6 +524,11 @@
       "type": "project",
       "path": "../TechLibrary.Communication/TechLibrary.Communication.csproj",
       "msbuildProject": "../TechLibrary.Communication/TechLibrary.Communication.csproj"
+    },
+    "TechLibrary.Exception/1.0.0": {
+      "type": "project",
+      "path": "../TechLibrary.Exception/TechLibrary.Exception.csproj",
+      "msbuildProject": "../TechLibrary.Exception/TechLibrary.Exception.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -521,7 +536,8 @@
       "FluentValidation >= 11.11.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.2",
       "Swashbuckle.AspNetCore >= 7.2.0",
-      "TechLibrary.Communication >= 1.0.0"
+      "TechLibrary.Communication >= 1.0.0",
+      "TechLibrary.Exception >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -558,6 +574,9 @@
           "projectReferences": {
             "C:\\Users\\diogo\\OneDrive\\Área de Trabalho\\NLW Connect - C#\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj": {
               "projectPath": "C:\\Users\\diogo\\OneDrive\\Área de Trabalho\\NLW Connect - C#\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj"
+            },
+            "C:\\Users\\diogo\\OneDrive\\Área de Trabalho\\NLW Connect - C#\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj": {
+              "projectPath": "C:\\Users\\diogo\\OneDrive\\Área de Trabalho\\NLW Connect - C#\\TechLibrary\\TechLibrary.Exception\\TechLibrary.Exception.csproj"
             }
           }
         }

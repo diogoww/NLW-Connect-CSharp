@@ -1,0 +1,12 @@
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\bin\Debug\net9.0\TechLibrary.Exception.deps.json
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\bin\Debug\net9.0\TechLibrary.Exception.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\bin\Debug\net9.0\TechLibrary.Exception.pdb
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.sourcelink.json
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\refint\TechLibrary.Exception.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\TechLibrary.Exception.pdb
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Exception\obj\Debug\net9.0\ref\TechLibrary.Exception.dll
