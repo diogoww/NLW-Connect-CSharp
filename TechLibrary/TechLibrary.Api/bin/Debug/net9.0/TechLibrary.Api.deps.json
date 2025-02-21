@@ -9,7 +9,8 @@
       "TechLibrary.Api/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "9.0.2",
-          "Swashbuckle.AspNetCore": "7.2.0"
+          "Swashbuckle.AspNetCore": "7.2.0",
+          "TechLibrary.Communication": "1.0.0"
         },
         "runtime": {
           "TechLibrary.Api.dll": {}
@@ -72,6 +73,14 @@
             "fileVersion": "7.2.0.956"
           }
         }
+      },
+      "TechLibrary.Communication/1.0.0": {
+        "runtime": {
+          "TechLibrary.Communication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -129,6 +138,11 @@
       "sha512": "sha512-hgrXeKzyp5OGN8qVvL7A+vhmU7mDJTfGpiMBRL66IcfLOyna8UTLtn3cC3CghamXpRDufcc9ciklTszUGEQK0w==",
       "path": "swashbuckle.aspnetcore.swaggerui/7.2.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+    },
+    "TechLibrary.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

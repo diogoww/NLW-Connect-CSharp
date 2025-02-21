@@ -1,0 +1,12 @@
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\bin\Debug\net9.0\TechLibrary.Communication.deps.json
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\bin\Debug\net9.0\TechLibrary.Communication.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\bin\Debug\net9.0\TechLibrary.Communication.pdb
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.AssemblyInfoInputs.cache
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.AssemblyInfo.cs
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.sourcelink.json
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\refint\TechLibrary.Communication.dll
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.pdb
+C:\Users\diogo\OneDrive\Área de Trabalho\NLW Connect - C#\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\ref\TechLibrary.Communication.dll

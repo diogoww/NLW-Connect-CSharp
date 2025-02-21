@@ -110,6 +110,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "TechLibrary.Communication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/TechLibrary.Communication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TechLibrary.Communication.dll": {}
+        }
       }
     }
   },
@@ -461,12 +471,18 @@
         "swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "TechLibrary.Communication/1.0.0": {
+      "type": "project",
+      "path": "../TechLibrary.Communication/TechLibrary.Communication.csproj",
+      "msbuildProject": "../TechLibrary.Communication/TechLibrary.Communication.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.2",
-      "Swashbuckle.AspNetCore >= 7.2.0"
+      "Swashbuckle.AspNetCore >= 7.2.0",
+      "TechLibrary.Communication >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -500,7 +516,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\diogo\\OneDrive\\Área de Trabalho\\NLW Connect - C#\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj": {
+              "projectPath": "C:\\Users\\diogo\\OneDrive\\Área de Trabalho\\NLW Connect - C#\\TechLibrary\\TechLibrary.Communication\\TechLibrary.Communication.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
